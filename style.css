@@ -56,11 +56,6 @@ body {
   color: #4A413C;
 }
 
-.list-inline {
-  list-style: none;
-  padding-left: 0px;
-}
-
 #remove-bullets {
   display: flex;
   justify-content: center; /* centre les icônes horizontalement */
